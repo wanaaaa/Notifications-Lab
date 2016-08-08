@@ -59,4 +59,3 @@ Here are two screenshots of the requirements:
 
 </p>
 
-If you get stuck, check out [the solution code](solution-code) for help.
